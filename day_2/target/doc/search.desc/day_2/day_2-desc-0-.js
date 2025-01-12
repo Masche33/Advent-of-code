@@ -1,0 +1,1 @@
+searchState.loadedDescShard("day_2", 0, "Checks the safety of the first type of a report.\nChecks the safety of the second type of a report.")

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["first_type_safe","main","second_type_safe"]};

@@ -1,0 +1,4 @@
+var searchIndex = new Map(JSON.parse('[["day_2",{"t":"H","n":["main"],"q":[[0,"day_2"]],"i":"`","f":"{{}b}","D":"`","p":[[1,"unit"]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OjAAAAEAAAAAAAEAEAAAAAAAAQA=","P":[]}],["day_2",{"t":"HH","n":["first_type_safe","main"],"q":[[0,"day_2"]],"i":"``","f":"{{{d{b}}}f}{{}h}","D":"b","p":[[1,"str"],[1,"reference",null,null,1],[1,"bool"],[1,"unit"]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OjAAAAEAAAAAAAEAEAAAAAAAAgA=","P":[]}],["day_2",{"t":"HHH","n":["first_type_safe","main","second_type_safe"],"q":[[0,"day_2"]],"i":"```","f":"{{{d{b}}}f}{{}h}1","D":"d","p":[[1,"str"],[1,"reference",null,null,1],[1,"bool"],[1,"unit"]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OjAAAAEAAAAAAAEAEAAAAAAAAgA=","P":[]}]]'));
+if (typeof exports !== 'undefined') exports.searchIndex = searchIndex;
+else if (window.initSearch) window.initSearch(searchIndex);
+//{"start":39,"fragment_lengths":[170,251,273]}
